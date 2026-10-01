@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Management-Platform?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Management-Platform?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Management-Platform?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Data-Management-Platform?style=flat-square&logo=github" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Data-Management-Platform?style=flat-square" alt="License"/></a>
@@ -63,9 +63,9 @@ The table below details top commercial DMPs and enterprise CDPs sorted by **Comp
 
 While end-to-end commercial DMPs handle direct ad-network CPM integrations and third-party data marketplaces, the open-source community provides powerful building blocks for **first-party event tracking**, **warehouse-first CDPs**, **customer profile stores**, and **analytics data platforms**.
 
-The projects below are sorted by **GitHub Stars** in descending order:
+The projects below are sorted by **GitHub_Stars** in descending order:
 
-| Project 📦 | GitHub Stars ⭐ | License 📜 | Ecosystem Role 🎯 | Key Features & Architecture 🛠️ |
+| Project 📦 | GitHub_Stars ⭐ | License 📜 | Ecosystem Role 🎯 | Key Features & Architecture 🛠️ |
 | :--- | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** | [<img src="https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white" alt="PostHog Stars"/>](https://github.com/PostHog/posthog/stargazers) | MIT | All-in-one Product OS & CDP | Self-hosted analytics, event ingestion, cohort segmentation, and feature flags. |
 | **[Matomo](https://github.com/matomo-org/matomo)** | [<img src="https://img.shields.io/github/stars/matomo-org/matomo?style=social&color=white" alt="Matomo Stars"/>](https://github.com/matomo-org/matomo/stargazers) | GPL-3.0 | First-Party Web Analytics | Privacy-compliant Google Analytics alternative providing rich audience logs without third-party cookies. |
@@ -106,7 +106,7 @@ Contributions are warmly welcomed! 💖 Help make this repository the definitive
 1. **Fork** the repository.
 2. Create a feature branch (`git checkout -b add-new-dmp-tool`).
 3. Add your entry to `README.md` following the tabular formatting.
-4. Ensure factual accuracy regarding licensing, star counts, and features.
+4. Ensure factual accuracy regarding licensing, Stars_Counts, and features.
 5. Submit a **Pull Request** with a brief summary of additions.
 
 For more awesome open-source collections, check out the main [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) hub! 🌟
@@ -147,3 +147,12 @@ If you find this repository helpful for your data team, research, or ad-tech eng
 <p align="center">
   <b>Made with ❤️ for Ad-Tech Engineers, Data Platform Architects, & Privacy-First Teams.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Data-Management-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Data-Management-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Data-Management-Platform_growth.svg">
+  </picture>
+</a>
